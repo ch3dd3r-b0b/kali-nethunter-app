@@ -300,6 +300,7 @@
     <string name="drawertitlebt">Bluetooth Arsenal</string>
     <string name="drawertitlenfc">NFC Arsenal</string>
     <string name="drawertitlenmap">Nmap Scan</string>
+    <string name="drawertitlepasswordcracker">Password Cracker</string>
     <string name="drawertitlempc">Metasploit Payload Generator</string>
     <string name="drawertitlesearchsploit">SearchSploit</string>
     <string name="drawertitlepineapple">Pineapple Connector</string>

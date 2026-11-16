@@ -92,7 +92,11 @@
              android:id="@+id/nmap_item"
              android:icon="@drawable/ic_cast_connected_black_24dp"
              android:title="@string/drawertitlenmap" />
-         <item
+        <item
+             android:id="@+id/password_cracker_item"
+             android:icon="@drawable/ic_password_cracker_24dp"
+             android:title="@string/drawertitlepasswordcracker" />
+	<item
              android:id="@+id/mpc_item"
              android:icon="@drawable/ic_memory_24dp"
              android:title="@string/drawertitlempc" />
